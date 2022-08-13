@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vsk
 - 👀 I’m interested in Learning something new,and i love to coding and to explore the new stuffs.
-- 🌱 I’m currently learning C,JAVA,HTML,CSS,JAVA SCRIPT,PHP,IOT and keep on searching to learn something new....
+- 🌱 I’m currently learning C,JAVA,HTML,CSS,JAVASCRIPT,REACT,PHP,IOT and keep on searching to learn something new....
 - 💞️ I’m looking to collaborate on Arduino Projects
 - 📫 How to reach me,By mail,kandhanvsk@gmail.com or whatsapp:6380907421
 
