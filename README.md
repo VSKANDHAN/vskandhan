@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vsk
-- 👀 Interested in Learning something new,and i love to coding and to explore the new stuffs.
+- 👀 Interested in Learning something new,and i love to code and to explore the new stuffs.
 - 🌱 Currently learning C,JAVA,HTML,CSS,JAVASCRIPT,REACT,PHP,SQL,IOT and keep on searching to learn something new....
 - 💞️ I’m looking to collaborate on Arduino Projects
 - 📫 How to reach me,By mail,kandhanvsk@gmail.com or whatsapp:6380907421
