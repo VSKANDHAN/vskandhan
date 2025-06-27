@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VSK 🏃🏻‍♂️To explore more about me visit https://vskandhan.live/
+- 👋 Hi, I’m VSK 🏃🏻‍♂️To explore more about me visit https://vskandhan.github.io/vsk/
 - 👀 Interested in Learning something new,and i love to code and to explore the new stuffs.
 - 🌱 Currently learning C,JAVA,PYTHON,HTML,CSS,JAVASCRIPT,REACT,PHP,SQL,IOT and keep on searching to learn something new....
 - 💞️ I’m looking to collaborate on Arduino Projects
